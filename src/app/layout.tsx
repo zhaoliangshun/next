@@ -27,6 +27,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+
+        你好啊，你好我好大家好
         {children}
       </body>
     </html>
